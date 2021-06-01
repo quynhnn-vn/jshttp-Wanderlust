@@ -5,5 +5,5 @@ Using information from the [Foursquare API](https://developer.foursquare.com/) a
 - Enter a city, it displays some recommended locations
 - Use fetch, async, and await for asynchronous programming
 
-
+View the project here [https://codesandbox.io/s/suspicious-bush-h4pzz](https://codesandbox.io/s/suspicious-bush-h4pzz)
 
